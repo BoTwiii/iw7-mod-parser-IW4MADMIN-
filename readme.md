@@ -1,0 +1,2 @@
+- This is a plugin for IW4MADMIN made for iw7-mod in my respriorty that i made
+-  https://github.com/BoTwiii/iw7-mod-cloned
